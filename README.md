@@ -1,2 +1,1 @@
-# Stock-portfolio-tracker-in-CodeAlpha
-The program is actually about the interaction between the chatbot and the user on a particular topic. The topic can be related to anything. 
+# Stock-portfolio-tracker-in-CodeAlpha used to track stock investments, calculate portfolio value, and show profit or loss.
